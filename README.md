@@ -21,7 +21,7 @@ function in the NumPy standard library without magic.
 
 I recommend running in Colab. Click here and copy the notebook to get start.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Tensor-Puzzles/blob/main/Tensor%20Puzzlers.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1GUj3QYI0xBJktPUB-SgqZNMqYgMSUG#scrollTo=5aKgdclvoOzh)
 
 
 ```python
